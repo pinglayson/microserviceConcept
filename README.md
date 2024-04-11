@@ -1,1 +1,1 @@
-This code demonstrates main concept about microservices.
+This code demonstrates main concepts about microservices.
